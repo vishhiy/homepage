@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recruiting_site</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+
+<body>
+    <header>
+        <h1>WORLDWIDE INTERNS HIRING</h1>
+    </header>
+    <h2>We offer exciting opportunities for students and graduates to gain valuable experience in various fields.</h2>
+    <p><em>We are hiring Worldwide interns to get an opportunity for your Future! </em></p>
+    <em>Join us and become a part of our talented group from all over the world.</em>
+    <br>
+
+    <img src="https://www.geneva.edu/news/2017/10/gc-graphic_11-reasons-why-your-summer-internship-was-totally-worth-it_eddy.jpg"
+        class="img1" alt="internship.img">
+
+
+    <img src="https://lh3.googleusercontent.com/h2bqtkcRITKHZpnQ3gD99j_beoNtQVzGNiK8jSdYSaP0z2j9kvHlYDDfzYxZgwNKKFaFW2x2mOQLjcfu_QLTOyWQ47qr4WdSWyLb8sYp-8tKUCgJN8afOtJHFaFBm5MHI2i09mrG"
+        class="img2">
+        <section id="positions">
+            <h3>
+                Available positions
+            </h3>
+            <ul>
+                <li>
+                    Web Development Intern
+                </li>
+                <li>
+                    Frontend Developer
+                </li>
+                <li>
+                    Backend Developer
+                </li>
+                <li> 
+                    Data Analyst
+                </li>
+                <li>
+                    Data Design
+                </li>
+            </ul>
+        </section>
+    <br>
+    <button>Apply Now</button>
+
+    <body>
+
+</html>
